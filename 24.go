@@ -21,7 +21,6 @@ func main() {
 		}(i) // for inline goroutines
 	}
 	time.Sleep(time.Second * 2)
-
 }
 
 // Commmand to run this file -
