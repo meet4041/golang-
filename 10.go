@@ -47,7 +47,6 @@ func main() {
 			// fmt.Println("other", t)
 			fmt.Println("other")
 		}
-
 	}
 
 	whoamI(12)
