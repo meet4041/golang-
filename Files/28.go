@@ -5,12 +5,9 @@ import (
 	"os"
 )
 
-// "fmt"
-
 func main() {
 
 	//Files
-
 	// file, error := os.Open("example.txt")
 	// if error != nil {
 	// 	panic(error)
@@ -72,7 +69,7 @@ func main() {
 	// 	fmt.Println(file.Name(), file.IsDir())
 	// }
 
-	// create
+	// Create a file
 	// file, err := os.Create("example2.txt")
 	// if err != nil {
 	// 	panic(err)
